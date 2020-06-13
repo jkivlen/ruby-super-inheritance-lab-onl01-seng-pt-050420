@@ -1,4 +1,4 @@
-def Class
+class Student
   
   
   
